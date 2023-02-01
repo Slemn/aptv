@@ -1,7 +1,7 @@
 # APTV
 🎉 🎉 APTV正式上架AppStore啦，支持节目回看！
 
-支持iOS、iPadOS、tvOS、macOS（已上Testflight）
+支持iOS、iPadOS、tvOS、watchOS、macOS（已上Testflight）
 
 <a href='https://apps.apple.com/cn/app/aptv/id1630403500'><img height='70' alt='Download from AppStore' src='https://img.whalenas.com:283/image/202207141215375.png' /></a>
 
@@ -20,11 +20,13 @@
 - 获取频道节目单
 - iCloud同步
 - AppleTV 版本
+- Mac 桌面版本
+- watchOS 版本
 
 ## 接下来的计划
-- Mac 桌面版本  
-- CarPlay版本（或许有）
-  ……
+- 聚合配置
+- 搜索中心
+……
 
 ## iOS截图
 ### 频道列表
@@ -55,6 +57,23 @@
 ### 设置页面
 <img src="https://img.whalenas.com:283/image/202207040045038.jpeg"/>
 
+## macOS截图
+<img src="https://img.whalenas.com:283/image/202302010935657.png"/>
+<img src="https://img.whalenas.com:283/image/202302010936574.png"/>
+
+## watchOS截图
+### 频道列表
+<img src="https://img.whalenas.com:283/image/202302010938951.png" width="500"/>
+
+### 收藏
+<img src="https://img.whalenas.com:283/image/202302010939520.png" width="500"/>
+
+### 配置页面
+<img src="https://img.whalenas.com:283/image/202302010939347.png" width="500"/>
+
+### 播放页面
+<img src="https://img.whalenas.com:283/image/202302010941968.png" width="500"/>
+
 ## 测试源
 > 以下直播源仅用于产品测试使用，禁止传播  
 > 以下直播源均来自于网络，本人只进行收集和整理，不对内容的隐私和版权负责
@@ -62,4 +81,4 @@
 - IPTV：https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 - 回放测试源：https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u
 
-（该测试源每日更新，若出现个别频道无法播放，请在配置中心中刷新配置）
+（该测试源随缘更新，若出现个别频道无法播放，请在配置中心中刷新配置）
