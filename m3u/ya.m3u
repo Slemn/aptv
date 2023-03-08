@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1045/70/3ba6db576629de9f18a992e52e27ce_180_135.jpg?1665172072" group-title="王者荣耀", 久爱-小予神【矛神】
 http://live.aptvapp.com/live/huya/503708
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1058/92/36f269f4bf017fb06ac06784a3ef9c_180_135.jpg?1552195655" group-title="天天吃鸡",托马斯CzH
+http://live.aptvapp.com/live/huya/20641
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/42/20ceab40027f04b7ab4c6ae3debd19_180_135.jpg?1646294318" group-title="天天吃鸡",天霸-沫子
+http://live.aptvapp.com/live/huya/696969
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1044/48/ab808d020b6ab3623f19bb4cfd31c1_180_135.jpg?1629184614" group-title="户外",盛世-豚豚大魔王【布】
+http://live.aptvapp.com/live/huya/2808
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1030/41/39fb2e647f3be3e7b28e56871abca3_180_135.jpg?1653379018" group-title="星秀", 快乐老家
 http://live.aptvapp.com/live/huya/880351
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1009/e4/837d557cdf07c6adf85a62540ce53d_180_135.jpg?1578575876" group-title="英雄联盟", 小超梦ovo
